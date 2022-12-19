@@ -1,0 +1,1 @@
+/usr/bin/g++   -std=c++11 -g  -rdynamic CMakeFiles/ori_detect.dir/main.cpp.o  -o ori_detect   -L/home/adminis/anaconda3/envs/graspnet/lib/python3.7/config-3.7m-x86_64-linux-gnu  -Wl,-rpath,/home/adminis/anaconda3/envs/graspnet/lib/python3.7/config-3.7m-x86_64-linux-gnu:/home/adminis/anaconda3/envs/graspnet/lib /home/adminis/anaconda3/envs/graspnet/lib/libpython3.7m.so 

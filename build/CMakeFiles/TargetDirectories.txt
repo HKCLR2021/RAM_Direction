@@ -1,0 +1,5 @@
+/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build/CMakeFiles/edit_cache.dir
+/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build/CMakeFiles/package_source.dir
+/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build/CMakeFiles/rebuild_cache.dir
+/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build/CMakeFiles/package.dir
+/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build/CMakeFiles/ori_detect.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/build",
+  "command": "/usr/bin/g++   -I/home/adminis/anaconda3/envs/graspnet/include/python3.7m   -std=c++11 -g   -o CMakeFiles/ori_detect.dir/main.cpp.o -c /media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/main.cpp",
+  "file": "/media/adminis/74e98a57-1d79-48a7-aa9e-f26c1aa4ca9c/2023/RAM缺口/c++/main.cpp"
+}
+]
